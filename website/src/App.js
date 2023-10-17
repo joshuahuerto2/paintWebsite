@@ -157,15 +157,20 @@ function App() {
             color="text.primary"
             gutterBottom
           >
-            Website Name
+            Lois On Canvas
           </Typography>
           <Typography variant='h5' align='center' color='text.secondary' paragraph>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius mi eget urna bibendum rutrum. 
-          Phasellus dictum aliquet nibh, at rhoncus ante cursus a. Donec a ipsum vel nibh ultricies mattis. Morbi 
-          libero nulla, bibendum at sem ullamcorper, interdum tristique lacus. Pellentesque auctor condimentum lobortis. 
-          Ut non pharetra tellus, sed pharetra augue. Sed velit urna, fringilla in molestie in, luctus nec ligula. 
-          Proin sed elementum urna. Curabitur massa odio, ultrices at efficitur in, ultrices at augue. Phasellus interdum 
-          ligula ut neque pharetra, nec tristique sem mattis. Curabitur felis magna, porttitor nec mauris in, placerat lacinia felis.
+            Lois Sander is the Founder and Artist at Lois On Canvas. With over 34 years of experience as an educator,
+            including 15 years in supervisory roles, Lois has dedicated her career to working with children and parents.
+            Her passion for virtual art has been a constant driving force throughout her journey in this field. Her
+            journey as an educator inspired her to explore the world of art, leading to her transformation into an
+            artist. Lois honed her artistic skills through classes and has since been expressing her creativity on 
+            various canvases. Her work is a vibrant reflection of her love for life and her deep connection with 
+            the elements of nature. While traditional canvas painting is her primary medium, Lois has expanded her
+            artistic horizons to include painting on floral planter pots, a unique avenue that allows her to combine
+            her artistic expression with her love for nature and plants. Lois On Canvas is proud to offer custom 
+            paintings and to host painting events, both in-person and virtually. These events cater to a diverse
+            audience, making them suitable for organizations and special occasions for individuals of all ages.
           </Typography>
         </Container>
       </Box>
